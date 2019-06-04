@@ -6,11 +6,4 @@ Saiba mais abaixo.
 
 Obrigado
 
-Gostou do curso? Quer mais? Ajude com uma doacao
-
-Obrigado
-
-teste
-
-teste2
 
