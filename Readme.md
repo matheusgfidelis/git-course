@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Alterando primeira linha Tereza :P
+Alterando primeira linha Tereza :D
 =======
 TestetstesiiGitHub22222222iii
 >>>>>>> 800274721a8c65b6583372a3770ff713effb4ad7
